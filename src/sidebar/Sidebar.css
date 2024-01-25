@@ -1,0 +1,24 @@
+/* Sidebar.css */
+.Sidebar2 {
+    width: 200px;
+    height: 100%;
+    background-color: #33333394;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+  } 
+  
+  .Sidebar2-button {
+    margin: 5px 0;
+    text-decoration: none;
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .Sidebar2-button:hover {
+    background-color: #555; 
+  }
+   
